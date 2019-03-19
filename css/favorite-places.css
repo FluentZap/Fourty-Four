@@ -1,5 +1,10 @@
 h1 {
-  color: cyan;
+  color: red;
+  text-align: center;
+  font-style: oblique;
+  font-weight: 804;
+  font-family: fantasy;
+  font-size: 80px;
 }
 
 h2 {
