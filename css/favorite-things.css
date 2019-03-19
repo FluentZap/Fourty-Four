@@ -8,8 +8,8 @@ h1 {
 }
 
 h2 {
-  front-style: italic;
   text-align: center;
+  font-style: italic;
 }
 
 p {
@@ -19,4 +19,11 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
